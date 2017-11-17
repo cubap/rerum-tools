@@ -1,7 +1,7 @@
-![thumb](static/thumb.png)
-
 # Rerum Manifest Transcription Reader
 This component is designed to allow for simple implementation of the Rerum tool for viewing transcription annotations and metadata.
+
+![thumb](static/thumb.png)
 
 ## Installation
 The `component` directory contains all the elements required for this component. No package has been set up yet for this, but you can link or copy the `rr-reader.js` file for your own application.
